@@ -242,10 +242,50 @@ padding-right:40px ;
 
 
 }
+@media(max-width:1023px){
 
+header{
+padding:5px 20px;
 
+}
 
+}
+@media(max-width:500px){
 
+section h2{
+
+margin:0 5px;
+
+}
+.cards{
+font-size:15px;
+margin:0 5px;
+padding:0 ;
+flex-direction:row;
+
+}
+.projects-{
+font-size:10px;
+margin:0 5px;
+padding:0 ;
+flex-direction:row;
+
+}
+.cards-contact{
+font-size:5px;
+margin:0 5px;
+padding:0 ;
+flex-direction:row;
+
+}
+footer .icons{
+font-size:20px;
+margin:0 5px;
+padding:0 ;
+flex-direction:row;
+
+}
+}
 
 
 

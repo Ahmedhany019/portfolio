@@ -236,6 +236,11 @@ background-color:black;
 display:flex;
 justify-content:space-between;
 }
+.ema{
+
+font-size:15px;
+margin-right:0 ;
+}
 footer .icons{
 font-size:35px;
 padding-right:40px ;
@@ -284,6 +289,11 @@ margin:0 5px;
 padding:0 ;
 flex-direction:row;
 
+}
+.ema{
+
+font-size:10px;
+margin-right:0 ;
 }
 }
 
